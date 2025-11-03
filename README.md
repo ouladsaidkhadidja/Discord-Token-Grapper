@@ -1,4 +1,4 @@
-# Discor-information-grapper
+# Discord-information-grapper
 
 ## Explanation :
 This demonstration shows a **real Discord token grabber** that steals the victim’s session and how malicious QR codes can be used to compromise Discored accounts 
@@ -16,6 +16,9 @@ educate users and devlopers about:
 4. attacker can use token to access the account
 
 ## Requirements:
+Python 3.11+
+
+pip install **pyinstaller** discord.py requests
 
 **QR Code**: Social engineering vector  
 
@@ -25,7 +28,7 @@ educate users and devlopers about:
 
 **Webhook**: data exfiltration
 
-Python 3.11+
+
 
 ## Testing:
 to test this demo:
@@ -77,4 +80,4 @@ to test this demo:
 
 [Discord Security Tips](https://discord.com/safety)
 
-[OWASP cheat-sheet] → Discord Attacks
+
