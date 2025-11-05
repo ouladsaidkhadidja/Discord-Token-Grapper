@@ -36,19 +36,20 @@ educate users and devlopers about:
 
 So the Token can be sent to the Attacker's server needs to :
 
-1.Go to the server's parameters  
+1. Go to the server's parameters  
 
 <img width="407" height="328" alt="image" src="https://github.com/user-attachments/assets/6543326a-7720-4b83-a390-6338b6b57ca0" />
 
-2.Then Go to the Integration To manage Webhooks 
+2. Then Go to the Integration To manage Webhooks 
 
 <img width="1065" height="415" alt="image2" src="https://github.com/user-attachments/assets/660b787c-d212-48d7-998e-a087de19c60b" />
 
-3.Add New Webhook
+3. Add New Webhook
 
 <img width="1060" height="575" alt="image3" src="https://github.com/user-attachments/assets/c31fdcd7-3daf-4a47-bf30-a0bcc425eb71" />
 
-4.Add The URL to the Code.
+
+4. Add The URL to the Code.
 
 ## Demo 1  :
 
