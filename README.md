@@ -1,7 +1,7 @@
 # Discord-Token-Grapper
 
 ## Explanation :
-This demonstration shows a ** Discord Token Grapper** that steals the victim’s session by just oppening the malicious .exe file (demo 1 ) and how malicious QR codes can be used to compromise Discored accounts (demo 2)  
+This demonstration shows a **Discord Token Grapper** that steals the victim’s session by just oppening the malicious .exe file (demo 1 ) and how malicious QR codes can be used to compromise Discored accounts (demo 2)  
 . purpose:  
 educate users and devlopers about:
 - Social engineering risks
