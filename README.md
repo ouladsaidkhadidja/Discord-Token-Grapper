@@ -33,14 +33,18 @@ educate users and devlopers about:
 
 
 ## Demo 1  :
-1. the victim opens the malicious .exe file (sent by the attacker) 
-   
+1. the victim opens the malicious .exe file (sent by the attacker)
+
+2. it appears to the victim a black screen with Shellmates logo 
+
+   <img width="1918" height="1000" alt="done" src="https://github.com/user-attachments/assets/692090ca-9720-4fe7-830a-f2de923571e8" />
+
 
 3. the attacker recives the Discord webhook embed output
    
 <img width="551" height="832" alt="output" src="https://github.com/user-attachments/assets/fad86e2f-8e1d-40cd-87b5-8cf45adc3158" />
 
-5. the attacker must go to the **discord.com/login** , open console and type :
+5. the attacker must go to the **discord.com/login** , open console and type "allow pasting" , then add the token :
    
    <img width="1915" height="1024" alt="console" src="https://github.com/user-attachments/assets/45bedd40-4b5e-4dad-aefe-611bce15d180" />
 6. login to the account succsesfuly 
