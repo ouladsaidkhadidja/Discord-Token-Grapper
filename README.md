@@ -3,7 +3,8 @@
 ## Explanation :
 
 This demonstration shows a **Discord Token Grapper** that steals the victim’s session by just oppening the malicious.exe file (demo 1 ) and how malicious QR codes can be used to compromise Discored accounts (demo 2)  
-. purpose:  
+
+## purpose:  
 educate users and devlopers about:
 - Social engineering risks
 - Discord token security
@@ -34,6 +35,14 @@ educate users and devlopers about:
 
 
 ## Demo 1  :
+
+
+
+
+
+
+
+
 
 1. The victim opens the MP16.exe file (sent by the attacker).
 
