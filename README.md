@@ -66,7 +66,8 @@ So the Token can be sent to the Attacker's server needs to :
 
 4. The attacker must go to the discord.com **/login** (doesn't work on discord.com), open developer tools (Shift+Ctrl+i), go to "Console" and type "allow pasting", then paste the "Ready Token Login" :
    
-<img width="1915" height="1024" alt="console" src="https://github.com/user-attachments/assets/45bedd40-4b5e-4dad-aefe-611bce15d180" />
+<img width="1915" height="1024" alt="image" src="https://github.com/user-attachments/assets/2423b9e4-4314-4173-a182-e89818685ee6" />
+
    
 5. Login to the account successfuly ✅.
    
